@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthika-m-2005
+- 👋 Hi, I’m Karthika Murugan
 - 👀 I’m interested in Web Development and Software Development
 - 🌱 I’m currently learning HTML,CSS ,Python and Java
 - 💞️ I’m looking to collaborate on beginner-friendly open source projects, portfolio websites, Java or Python-based mini-projects
